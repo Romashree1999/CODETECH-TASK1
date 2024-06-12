@@ -9,7 +9,7 @@ Mentor-Hemanth Kumar
 
 ===Overview Of the Project===
 Project- Simple Calculator
-OBJECTIVE:
+Objective:
 ----------
 User Interaction:
 ->Learn how to prompt the user for input and read their responses.
@@ -26,7 +26,7 @@ Modular Programming:
 Basic Control Structures:
 ->Use loops to allow the user to perform multiple calculations without restarting the program.
 ->Understand the use of loops for repetitive tasks and user interaction.
-KEY ACTIVITIES:
+Key Activities:
 --------------
 Input and Output Handling:
 ->Gain experience with Java's Scanner class for reading user input.
